@@ -75,3 +75,4 @@
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prnv-m&show_icons=true&locale=en&layout=compact" alt="prnv-m" /></p>
+<img src="https://metrics.lecoq.io/prnv-m?template=classic&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
