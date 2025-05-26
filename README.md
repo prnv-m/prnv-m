@@ -75,5 +75,4 @@
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prnv-m&show_icons=true&locale=en&layout=compact" alt="prnv-m" /></p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=prnv-m&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" /></a>
 
