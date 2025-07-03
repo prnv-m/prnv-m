@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prnv-m&label=Profile%20views&color=0e75b6&style=flat" alt="prnv-m" /> </p>
 
-- 🔭 I’m currently working on [PriceInsights](https://github.com/prnv-m/PriceInsights/)
+- 🔭 I’m currently working on [Transcent](https://github.com/prnv-m/Transcent)
 
 - 🌱 I’m currently learning **Docker, Kubernetes, n8n, Vite,**
 
